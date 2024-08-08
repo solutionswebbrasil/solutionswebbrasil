@@ -16,6 +16,9 @@ Olá!Eu sou Clayton Souza 👋
  <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
  <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 - 👯 Estou aberto para colaborar em projetos interessantes que envolvam tecnologias web.
-<br>- 💬 Pergunte-me sobre desenvolvimento web e minhas experiências aprendendo essas tecnologias.
+<br>- 💬 Minhas experiencias com programação web são diversas, em cada projeto uma particularidade diferente. 
 <br>- 📫 Como me encontrar: <a href="[your link](https://www.linkedin.com/in/clayton-dev)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <br>- ⚡ Curiosidade: Amo resolver problemas de lógica e criar interfaces intuitivas!
+
+(11) 9 7885 1436
+Jundiaí - SP
